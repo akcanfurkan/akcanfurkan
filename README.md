@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/akcanfurkan"><img src="https://github.com/akcanfurkan/akcanfurkan/blob/main/devcard.svg" width="400" alt="Furkan's Dev Card"/></a>
+<a href="https://app.daily.dev/akcanfurkan"><img src="https://api.github.com/repos/akcanfurkan/akcanfurkan/contents/devcard.svg" width="400" alt="Furkan's Dev Card"/></a>
